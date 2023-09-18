@@ -13,9 +13,14 @@ See https://github.com/outdoorsy/interview-challenge-android/blob/main/API.md
 
 ## Quality requirements
 - Build this as if it will be maintained for a while (code organization, maintainability, extensibility).
+- Add comments as much as possible to explain what is happening in your code. Please do not submit a project with little to no comments.
 - Use common, modern Kotlin architecture.
+- Use Jetpack Compose for all UI.  
 - Make performant API requests.
 - The project should run on phones; tablet support is optional.
+- It should be easy to find the starting point of the application and understand how the app works. Please do not use overly complex architecture.
+- Please start your project from scratch rather than copying from a previously created project.
+- Please include a brief description of how your project works and why you chose the architecture that you did.
 
 ## What we’re looking for
 - Functionality of project matches description above
