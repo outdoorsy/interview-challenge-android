@@ -33,7 +33,6 @@ See https://github.com/outdoorsy/interview-challenge-android/blob/main/API.md
 - Please make frequent and descriptive git commits.
 - Use any dependencies that you find useful to complete the task.
 - Please use the most modern version of Kotlin and Android Studio.
-- Use Jetpack Compose if possible.
 
 When complete, please push your code to Github and send the link to the project or zip the project (including the `.git` directory) and send it back.
 
