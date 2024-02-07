@@ -21,6 +21,7 @@ See https://github.com/outdoorsy/interview-challenge-android/blob/main/API.md
 - It should be easy to find the starting point of the application and understand how the app works. Please do not use overly complex architecture.
 - Please start your project from scratch rather than copying from a previously created project.
 - Please include a brief description of how your project works and why you chose the architecture that you did.
+- Please include a screenshot of your project.  It should look almost identical to the design image. Please do not submit a project that doesn't match the design.
 
 ## What we’re looking for
 - Functionality of project matches description above
