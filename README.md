@@ -3,7 +3,7 @@
 Thanks for applying for an Android developer role at Outdoorsy. We've put together this code challenge. It should take around two hours to complete.
 
 ## Functionality
-This task is to develop a single-page app that provides the ability to search Outdoorsy listings by keyword. Users will be able to type keywords in a text field. Typing in the text field will search for relevant results and display them for the user. Listings should display an image of the vehicle and the vehicle’s name.
+This task is to develop a single-page app that provides the ability to search Outdoorsy listings by keyword. Users will be able to type keywords in a text field. Typing in the text field will cause search results to appear automatically. The search results should display an image of the vehicle and the vehicle’s name.  The keyboard should hide when the user starts to scroll.
 
 ### What the app should look like
 See https://github.com/outdoorsy/interview-challenge-android/blob/main/Challenge-Design.png
